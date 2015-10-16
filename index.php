@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<title>Latihan Git</title>
-		<link href="assets/css/style.css">
+		<link href="assets/css/style.css" rel="stylesheet">
 	</head>
 	<body>
 		<div class="w1100">
