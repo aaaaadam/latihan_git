@@ -1,4 +1,10 @@
 body{
+	font-family: sans-serif;
 	background:#212121;
 	color:#eee;
+}
+.w1100{
+	width: 1100px;
+	margin:0 auto;
+	background:lime;
 }
